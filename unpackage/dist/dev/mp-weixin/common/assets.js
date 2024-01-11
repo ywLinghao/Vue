@@ -1,0 +1,11 @@
+"use strict";
+const _imports_0$1 = "/static/logo.png";
+const _imports_0 = "/assets/done.54fb8789.png";
+const _imports_1 = "/assets/wenben.07da9a01.png";
+const _imports_2 = "/assets/tupian.86b2fca2.png";
+const _imports_3 = "/assets/shipin.0dde8b4c.png";
+exports._imports_0 = _imports_0$1;
+exports._imports_0$1 = _imports_0;
+exports._imports_1 = _imports_1;
+exports._imports_2 = _imports_2;
+exports._imports_3 = _imports_3;

@@ -1,0 +1,30 @@
+
+.myForm {
+		padding: 40px 10px 0 10px;
+		margin: 10px;
+		height: calc(80vh - 140px);
+		box-shadow: 0 0 2px rgba(0, 0, 0, 0.5);
+		border-radius: 10px;
+}
+.myForm-emailCode {
+		display: flex
+}
+.myForm-emailCode .input {
+		width: 60%;
+}
+.myForm-emailCode button {
+		width: 40%;
+}
+.logo {
+		width: 100%;
+		height: 140px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		border-radius: 0 0 10px 10px;
+}
+image {
+		width: 100px;
+		height: 100px;
+}

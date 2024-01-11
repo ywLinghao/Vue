@@ -1,0 +1,1 @@
+<view> 文章列表 <uni-fab wx:if="{{c}}" class="r" u-r="fab" bindfabClick="{{b}}" u-i="72f7c556-0" bind:__l="__l" u-p="{{c}}"/></view>

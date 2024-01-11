@@ -1,0 +1,1 @@
+<view><button type="primary" bindtap="{{a}}">微信授权登录</button></view>

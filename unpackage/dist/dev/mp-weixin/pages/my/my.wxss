@@ -1,0 +1,69 @@
+/* 水平间距 */
+/* 水平间距 */
+.my-setting {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
+.my-setting .item {
+  margin-right: 20rpx;
+}
+.my {
+  display: flex;
+  width: 100%;
+  height: 400rpx;
+  align-items: center;
+}
+.my-pic {
+  position: relative;
+  display: flex;
+  width: 200rpx;
+  height: 200rpx;
+  border: 1rpx solid white;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  margin: 0 10rpx 0 20rpx;
+  z-index: 5;
+}
+.my-pic-upload {
+  position: absolute;
+  top: 10rpx;
+  right: 10rpx;
+  z-index: 999;
+}
+.my-info {
+  height: 100rpx;
+  flex: 1;
+  margin: 0 20rpx 0 10rpx;
+  box-shadow: 0 0 5px rgba(216, 216, 216, 0.5);
+}
+.my-info .username {
+  font-size: 36rpx;
+  color: aliceblue;
+  padding-left: 10px;
+}
+.my-info .email {
+  font-size: 24rpx;
+  color: #ccc;
+  padding-left: 10px;
+  margin-top: 10rpx;
+}
+.toolbars {
+  width: 100%;
+  height: calc(100vh - 420rpx);
+  background-color: white;
+  border-radius: 40rpx 40rpx 0 0;
+  position: relative;
+  z-index: 1;
+  top: -40rpx;
+}
+.toolbars-1 {
+  position: absolute;
+  width: 100%;
+  padding-top: 20rpx;
+  top: 20px;
+}
+.box-bg {
+  padding: 0 10rpx;
+}
